@@ -1,13 +1,10 @@
 # Hi there 👋 I'm @t1m0th33dum4s !
 ## Trainee Computer & Software Engineer
 
+- 📚 Student at : **@ESIEEParis**
 - 💼 Apprentice at : **@SomfyGroup**
 - 🌐 My website : *Coming soon...*
 - 📫 Contact me : **timothee.dumas.pro@gmail.com**
-
-## Socials
-
-## Skills
 
 <!--
 **t1m0th33dum4s/t1m0th33dum4s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
