@@ -8,6 +8,5 @@
 - **Somfy Group**, Cluses, France — *Industrial Software Engineer (Operational Technology)*
 
 # 🎓 Academic Experience
-- **University of Ottawa**, Ottawa, Canada - PhD Candidate in Rehabilitation Science
 - **ESIEE Paris**, Paris, France — Master degree : Computer Science and Software Engineering  
 - **Université Laval**, Québec, Canada — Study abroad semester : Computer Science  
